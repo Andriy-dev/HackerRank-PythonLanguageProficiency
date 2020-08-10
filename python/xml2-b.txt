@@ -1,0 +1,16 @@
+15
+<feed xml:lang='en'>
+  <entry>
+    <author gender='male'>Harsh</author>
+    <question type='medium' language='python'>XML 2</question>
+    <description type='text'>This is related to XML parsing</description>
+  </entry><entry>
+    <author gender='male'>Harsh</author>
+    <question type='medium'>XML 2</question>
+    <description type='text'>This is related to XML parsing</description>
+  </entry><entry>
+    <author gender='male'>Harsh</author>
+    <question type='medium'>XML 2</question>
+    <description type='text'>This is related to XML parsing</description>
+  </entry>
+</feed>
